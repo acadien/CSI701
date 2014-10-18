@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/17/trunk/CSI701/hw03
+END
+gradfield
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/17/trunk/CSI701/hw03/gradfield
+END
+triangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/17/trunk/CSI701/hw03/triangle.cpp
+END
+triangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/17/trunk/CSI701/hw03/triangle.h
+END
+plot_vec_fields.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/17/trunk/CSI701/hw03/plot_vec_fields.m
+END
+gradfield.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/17/trunk/CSI701/hw03/gradfield.cpp
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/17/trunk/CSI701/hw03/constants.h
+END
+fld
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/17/trunk/CSI701/hw03/fld
+END
+ele
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/17/trunk/CSI701/hw03/ele
+END
+README.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/17/trunk/CSI701/hw03/README.pdf
+END
+pts
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/17/trunk/CSI701/hw03/pts
+END
+bp.in
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/17/trunk/CSI701/hw03/bp.in
+END
+gradfield.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/17/trunk/CSI701/hw03/gradfield.h
+END
+bp.out
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/17/trunk/CSI701/hw03/bp.out
+END
+vec_field_contour_hole.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/CSI701/hw03/vec_field_contour_hole.pdf
+END
+vec_fld.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/17/trunk/CSI701/hw03/vec_fld.dat
+END
+scl_field_contour_hole.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/CSI701/hw03/scl_field_contour_hole.pdf
+END
+fld.dat
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/17/trunk/CSI701/hw03/fld.dat
+END
+pts.dat
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/17/trunk/CSI701/hw03/pts.dat
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/17/trunk/CSI701/hw03/makefile
+END
+scl_fld.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/17/trunk/CSI701/hw03/scl_fld.dat
+END
